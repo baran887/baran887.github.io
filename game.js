@@ -1,3 +1,12 @@
+/*
+  Project: Corgi Game
+  File: game.js
+  Description: 게임 메인 기능 (점프, 충돌, 점수 로직 등)
+  Authors: 정민선, 홍수민
+  Repository: https://github.com/baran887/baran887.github.io
+  Website: https://baran887.github.io
+  License: MIT License
+*/
 // game.js
 "use strict";
 
@@ -603,3 +612,4 @@ window.addEventListener("load", () => {
     requestAnimationFrame(gameLoop);
   });
 });
+
