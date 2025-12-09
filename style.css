@@ -1,3 +1,12 @@
+/*
+  Project: Corgi Game
+  File: style.css
+  Description: 게임 그래픽 및 스타일 정의
+  Authors: 정민선, 홍수민
+  Repository: https://github.com/baran887/baran887.github.io
+  Website: https://baran887.github.io
+  License: MIT License
+*/
 /* 기본 설정 */
 * {
   box-sizing: border-box;
@@ -215,3 +224,4 @@ body {
     font-size: 0.85rem;
   }
 }
+
